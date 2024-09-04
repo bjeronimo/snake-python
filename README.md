@@ -1,4 +1,4 @@
-# Snace Game (Time Python)
+# Snake Game (Time Python)
 
 Bem-vindo ao repositório do Snake Game! Este projeto é voltado para iniciantes e tem como objetivo ensinar conceitos básicos de programação através do desenvolvimento de um simples jogo da cobrinha.
 
