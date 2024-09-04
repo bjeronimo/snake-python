@@ -1,10 +1,10 @@
-# Snack Game (Time Python)
+# Snace Game (Time Python)
 
-Bem-vindo ao repositório do Snack Game! Este projeto é voltado para iniciantes e tem como objetivo ensinar conceitos básicos de programação através do desenvolvimento de um simples jogo da cobrinha.
+Bem-vindo ao repositório do Snake Game! Este projeto é voltado para iniciantes e tem como objetivo ensinar conceitos básicos de programação através do desenvolvimento de um simples jogo da cobrinha.
 
 ## Sobre o Jogo
 
-O Snack Game é uma implementação clássica do jogo da cobrinha, onde o jogador controla uma cobra que se move pelo tabuleiro, come pixels e cresce de tamanho. O objetivo do jogo é sobreviver o máximo de tempo possível, evitando bater nas paredes ou em si mesma.
+O Snake Game é uma implementação clássica do jogo da cobrinha, onde o jogador controla uma cobra que se move pelo tabuleiro, come pixels e cresce de tamanho. O objetivo do jogo é sobreviver o máximo de tempo possível, evitando bater nas paredes ou em si mesma.
 
 ## Requisitos Funcionais
 
